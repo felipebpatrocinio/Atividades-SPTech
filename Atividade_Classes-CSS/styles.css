@@ -1,0 +1,34 @@
+/* Siga as orientações no arquivo README para concluir o exercício */
+
+.container {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: green;
+    color: brown;
+}
+
+.cabecalho {
+    background-color: #F1E5;
+    text-align: center;
+}
+
+.tituloPrincipal {
+    color: blue;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.subtitulo {
+    color: aqua;
+}
+
+.conteudo {
+    background-color: blueviolet;
+    color: darkorange;
+}
+
+.conteudo > p {
+    color: #E4005A;
+    font-size: 42px;
+}
+
